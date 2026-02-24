@@ -25,7 +25,7 @@ The dataset contains SMS messages labeled as Spam or Ham.
 5. Model Evaluation
 
 ## 🎯 Result
-Achieved XX% accuracy on test data.
+Achieved 92% accuracy on test data.
 
 ## 📂 How to Run
 1. Clone the repository
